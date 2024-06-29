@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Junior Full Stack developer specialized in Java,<br>Kotlin, TypeScript and Angular. My approach covers both design and design as well as application development. My understanding of development logic allows me not only to create efficient code, but also to code, but also to analyze requirements effectively and develop and develop functional solutions that meet the needs of the project. the needs of the project.
+I am a Junior Full Stack developer specialized in Java, Kotlin, TypeScript and Angular. My approach covers both design and design as well as application development. My understanding of development logic allows me not only to create efficient code, but also to code, but also to analyze requirements effectively and develop and develop functional solutions that meet the needs of the project. the needs of the project.
 
 
 ## 🌐 Socials:
